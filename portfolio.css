@@ -1,0 +1,29 @@
+body {
+    font: 1em sans-serif;
+    width:auto
+}
+.header {
+ width:150%; 
+background-repeat: no-repeat;
+height:200px;
+  }
+
+  .row {
+    display: flex;
+  }
+  
+
+  h1{
+    color:blue
+  }
+
+  .container{
+  }
+  .image1 img{
+    height: 50%;
+    weight:auto
+  }
+  .image1{
+    margin-bottom: 10%
+  }
+
